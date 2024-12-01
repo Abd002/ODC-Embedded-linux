@@ -1,0 +1,3 @@
+you can do arithmetic operations using 
+  Arithmetic Expansion $(())
+

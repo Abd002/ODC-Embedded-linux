@@ -1,0 +1,5 @@
+stdout 
+  standard output mean the output text of kind of process.
+
+stderr
+  standard error mean if an error occured that will hold output message.

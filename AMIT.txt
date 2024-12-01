@@ -1,0 +1,18 @@
+lunix philosophy
+  1-)  small is beautifull
+  2-)  do one thing
+  3-)  prototype a soon as possible
+  4-)  choose portability than effecency
+  5-)  flat file text for all programm .(doesn't matter)
+  6-)  software levegee -> donn't re build 
+  7-)  use script
+  8-)  avoid complex -> use terminal
+  9-)  make every programm a filter of another -> can use outout of another programm
+
+terminal -> shell -> kernel 
+
+tty2-7 -> each one has it's text -> pts
+
+hard link -> same inode multible reference count
+soft link -> new inode that has referance path to directory
+
